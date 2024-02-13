@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hello, I'm Kadeem! 👨‍💻
 
-<!--
-**Cyberdeem1/cyberdeem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 💻 Cybersecurity Projects 🔐 </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 📚 Certifications </h2>
+
+- [(CompTIA Security+](https://www.credly.com/badges/8afe98b6-da8c-4c67-8f7d-241502c4e886/public_url)
+
+
+- [(ISC)² Certified in Cybersecurity](https://www.credly.com/badges/a1f2ee1a-13e6-44d9-862b-7da45cbdd125/public_url)
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="KadeemReid | LinkedIn" width="22px" src="www.linkedin.com/in/kadeem-reid-484514253"/>][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/kadeem-reid-484514253
