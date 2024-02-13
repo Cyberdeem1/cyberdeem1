@@ -1,6 +1,6 @@
 <h1>Hello, I'm Kadeem! 👨‍💻
 
-<h2> 💻 Cybersecurity Projects 🔐 </h2>
+<h2> 💻 Cybersecurity Projects/Labs 🔐 </h2>
 
 
 
