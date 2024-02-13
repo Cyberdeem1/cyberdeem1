@@ -12,6 +12,10 @@
 - [(ISC)² Certified in Cybersecurity](https://www.credly.com/badges/a1f2ee1a-13e6-44d9-862b-7da45cbdd125/public_url)
 
 
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/1243641d-c184-4996-a102-bd114b86a65d/public_url)
+
+
+
 
 
 
